@@ -14,10 +14,10 @@ function Footer() {
 				<div>
 					If you liked the website, star the repo on{' '}
 					<a
-						href='https://github.com/KunwarVSuryavanshi/animanga-v2'
+						href='https://shallowlist.vercel.app'
 						target='_blank'
 					>
-						<span>Github</span>
+						<span>animelist</span>
 					</a>{' '}
 					&#128517;
 				</div>
